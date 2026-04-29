@@ -4,6 +4,7 @@
 // The ENDSTONE_PLUGIN macro defines the metadata for the plugin.
 // This is where you set the plugin name, version, and main class,
 // and declare commands and permissions.
+
 ENDSTONE_PLUGIN(/*name=*/"cpp_example", /*version=*/CPP_EXAMPLE_VERSION, /*main_class=*/ExamplePlugin)
 {
     prefix = "ExamplePlugin";
