@@ -1,6 +1,7 @@
 #include "plugin.h"
 #include "version.h"
 
+
 // The ENDSTONE_PLUGIN macro defines the metadata for the plugin.
 // This is where you set the plugin name, version, and main class,
 // and declare commands and permissions.
